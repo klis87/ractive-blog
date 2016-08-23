@@ -2,7 +2,7 @@ Ractive blog
 ============
 
 Demo blog application in Ractive.js for
-[http://klisiczynski.com/blog/build-your-angular-with-ractivejs-introduction-part-1](Build your Angular with Ractive.js)
+[Build your Angular with Ractive.js](http://klisiczynski.com/blog/build-your-angular-with-ractivejs-introduction-part-1/)
 tutorial series.
 
 You can see it live [here](http://ractive-blog.herokuapp.com/).
