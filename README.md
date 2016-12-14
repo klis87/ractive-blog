@@ -18,6 +18,12 @@ and run:
 ```
 $ python app.py
 ```
+
+Or if you are lazy like me, just use docker-compose:
+```
+$ docker-compose up
+```
+
 The website will be available at http://127.0.0.1:5000/.
 
-Also, please note that the app was tested on Python 2.7 and 3.4.
+Also, please note that the app was tested on Python 2.7 and 3.4+.
